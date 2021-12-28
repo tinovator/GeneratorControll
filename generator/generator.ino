@@ -1,7 +1,7 @@
 /* GENERATOR CONTROL MODULE v0.1
 Developed by: Tino Herljević
 Date: 1.11.2015.
-Last modification: 3.11.2015.
+Last modification: 29.12.2021.
 
 Basic controls, emergency switch, automatic and manual start.
 TODO: automatic battery recharge, display, wireless controls, */
@@ -285,4 +285,3 @@ void exercise() {
     stopEngine();
   }
 }
-
